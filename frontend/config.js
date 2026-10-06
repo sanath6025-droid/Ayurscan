@@ -12,7 +12,7 @@
  * 3. During local development or local Wi-Fi:
  *    Leave AYURSCAN_BACKEND_URL as "" (empty string). It automatically connects to port 8000.
  */
-window.AYURSCAN_BACKEND_URL = "";
+window.AYURSCAN_BACKEND_URL = "https://ayurscan-vd1q.onrender.com";
 
 /**
  * Returns the active API base URL without trailing slash.
