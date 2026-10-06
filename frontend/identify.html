@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f3ec">
+  <meta name="description" content="Identify one or multiple Ayurvedic plants from photos with Google Gemini and curated botanical wisdom.">
+  <title>Identify plants — AYURSCAN</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="identify.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="AYURSCAN home"><span class="brand-mark">A.</span> AYURSCAN</a>
+    <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a class="nav-link" href="index.html">Discover</a>
+      <a class="nav-link active" href="identify.html">Identify plants</a>
+      <a class="nav-link" href="index.html#search-section">Search catalog</a>
+      <a class="nav-link" href="index.html#field-notes">Field notes</a>
+      <a class="nav-link" href="index.html#about-section">About</a>
+      <a class="nav-login" href="login.html">Log in <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+
+  <main class="identify-main page-shell">
+    <div class="identify-heading">
+      <div>
+        <p class="eyebrow"><span class="eyebrow-dot"></span> MULTI-PLANT VISION SYSTEM</p>
+        <h1>What’s <em>growing?</em></h1>
+        <p>Upload or snap a photo of one or multiple plants. We'll identify every clear botanical find and reveal its Ayurvedic story.</p>
+      </div>
+      <a class="identify-back" href="index.html">← Back to discover</a>
+    </div>
+
+    <div class="demo-notice vision-status-banner">
+      <span class="notice-icon">✳</span>
+      <p id="visionStatusText"><b>AyurScan Vision Active.</b> Whole-image multi-plant detection powered by Google Gemini and curated MongoDB Ayurvedic records.</p>
+    </div>
+
+    <section class="capture-layout" aria-label="Plant photo capture">
+      <div class="capture-panel">
+        <div class="panel-topline">
+          <div><span class="step-mark">01</span><h2>Add a photo</h2></div>
+          <span class="photo-hint">Single or multiple plants · natural daylight</span>
+        </div>
+
+        <div class="photo-stage" id="photoStage">
+          <div class="stage-empty" id="stageEmpty">
+            <div class="leaf-symbol" aria-hidden="true">✳</div>
+            <strong>Your plants, in frame.</strong>
+            <span>Upload an image or start the live camera.</span>
+          </div>
+
+          <img id="imagePreview" alt="Plant photo preview" hidden>
+          <video id="cameraVideo" autoplay playsinline muted hidden></video>
+          <div class="focus-corner corner-tl"></div>
+          <div class="focus-corner corner-tr"></div>
+          <div class="focus-corner corner-bl"></div>
+          <div class="focus-corner corner-br"></div>
+          <div class="camera-status" id="cameraStatus" hidden><span></span> LIVE CAMERA</div>
+        </div>
+
+        <input id="imageInput" type="file" accept="image/*" hidden>
+
+        <div class="capture-actions">
+          <button class="button button-dark" id="uploadButton" type="button">
+            <span class="action-icon" aria-hidden="true">↑</span> Upload image
+          </button>
+          <button class="button button-outline" id="cameraStart" type="button">
+            <span class="action-icon" aria-hidden="true">◉</span> Live camera
+          </button>
+          <button class="button button-outline" id="cameraCapture" type="button" hidden>
+            <span class="action-icon" aria-hidden="true">◎</span> Capture photo
+          </button>
+          <button class="button button-quiet" id="cameraStop" type="button" hidden>
+            Close camera
+          </button>
+          <button class="button button-outline" id="replaceButton" type="button" hidden>
+            Replace image
+          </button>
+          <button class="button button-quiet" id="removeButton" type="button" hidden>
+            Remove photo
+          </button>
+        </div>
+
+        <p class="upload-error" id="uploadError" role="alert" aria-live="polite"></p>
+        <div class="privacy-note">
+          <span aria-hidden="true">⌑</span> Images are processed securely by the AyurScan backend and are never used to train external public models.
+        </div>
+      </div>
+
+      <aside class="scan-aside">
+        <div class="aside-number">FIELD GUIDE <span>01 / 02</span></div>
+        <h2>Clear details.<br><em>Multiple plants welcome.</em></h2>
+        <p>You can capture Tulsi, Neem, Mint, or garden arrangements in a single picture. AyurScan inspects every corner of the frame.</p>
+        <ul class="capture-tips">
+          <li><span>01</span> Include all plants you wish to identify in good light</li>
+          <li><span>02</span> Keep distinctive leaves and flowers visible and in focus</li>
+          <li><span>03</span> Plants too blurry or hidden will be marked for a closer look</li>
+        </ul>
+        <div class="aside-illustration">
+          <img src="https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=700&q=80" alt="Sunlight falling across fresh green leaves" loading="lazy">
+          <span>DEEP BOTANICAL VISION <b>✳</b></span>
+        </div>
+      </aside>
+    </section>
+
+    <div class="analyse-row">
+      <div class="analysis-note">
+        <span class="analysis-mark">✳</span>
+        <div>
+          <b>Ready when you are</b>
+          <small>Gemini inspects the whole photo and matches each plant with Ayurvedic medicine.</small>
+        </div>
+      </div>
+      <button class="button button-dark analyse-button" id="analyseButton" type="button" disabled>
+        Analyse plants <span aria-hidden="true">↗</span>
+      </button>
+    </div>
+  </main>
+
+  <!-- Analyzing Overlay Modal -->
+  <div class="analysis-overlay" id="analysisOverlay" aria-hidden="true">
+    <div class="analysis-modal" role="status" aria-live="polite">
+      <div class="scan-loader" id="modalLoader"><span></span><span></span><span></span></div>
+      <p class="eyebrow" id="modalEyebrow">FIELD GUIDE IN PROGRESS</p>
+      <h2 id="analysisTitle">Analyzing your plants...</h2>
+      <p id="analysisStep">Inspecting the entire image for distinguishable plants</p>
+      <div class="analysis-progress" id="modalProgress"><span></span></div>
+      <small id="modalModelLabel">GOOGLE GEMINI 2.5 FLASH · AYURVEDIC DATABASE</small>
+      <div class="modal-error-actions" id="modalErrorActions" hidden>
+        <button class="button button-dark" id="modalRetryButton" type="button">Try again</button>
+        <button class="button button-outline" id="modalDismissButton" type="button">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <footer class="site-footer page-shell">
+    <a class="brand" href="index.html"><span class="brand-mark">A.</span> AYURSCAN</a>
+    <span>A field guide for the curious.</span>
+    <span>© AYURSCAN 2026</span>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+  <script src="identify.js"></script>
+</body>
+</html>

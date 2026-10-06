@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f3ec">
+  <meta name="description" content="AyurScan — AI-powered Ayurvedic plant identification and botanical knowledge platform.">
+  <title>AYURSCAN — know the plant</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="AYURSCAN home"><span class="brand-mark">A.</span> AYURSCAN</a>
+    <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a class="nav-link active" href="index.html">Discover</a>
+      <a class="nav-link" href="identify.html">Identify plants</a>
+      <a class="nav-link" href="#search-section">Search catalog</a>
+      <a class="nav-link" href="#field-notes">Field notes</a>
+      <a class="nav-link" href="#about-section">About</a>
+      <a class="nav-login" href="login.html">Log in <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Hero Section -->
+    <section class="home-hero page-shell">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="eyebrow-dot"></span> YOUR POCKET FIELD GUIDE</p>
+        <h1>Every leaf has<br>a <em>story.</em></h1>
+        <p class="hero-description">Meet the plants growing around you. Upload photos with one or multiple plants—our AI identifies each distinguishable species and reveals its traditional Ayurvedic wisdom.</p>
+        <div class="hero-actions">
+          <a class="button button-dark" href="identify.html">Identify plants <span aria-hidden="true">↗</span></a>
+          <a class="text-link" href="#search-section">Search plant catalog <span aria-hidden="true">↓</span></a>
+        </div>
+        <div class="hero-caption"><span class="caption-rule"></span> A little more curious, a little more connected.</div>
+      </div>
+      <div class="hero-visual">
+        <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=85" alt="Sunlit green leaves of a tropical plant">
+        <div class="image-label"><span class="live-dot"></span> FIELD NOTE NO. 001 <span class="label-line"></span> BOTANICAL AI</div>
+        <div class="hero-sticker" aria-hidden="true"><span>Look</span><span>closer</span><b>✳</b></div>
+        <div class="image-credit">CURATED AYURVEDIC KNOWLEDGE <span>·</span> 2026</div>
+      </div>
+    </section>
+
+    <!-- Quick Strip -->
+    <section class="quick-strip page-shell" aria-label="Explore AYURSCAN">
+      <div class="strip-intro"><span class="strip-number">01 / 03</span><span>Start with what’s growing.</span></div>
+      <a class="quick-item" href="identify.html">
+        <span class="quick-icon">⌕</span>
+        <span><b>Take a closer look</b><small>Identify multiple plants with AI</small></span>
+        <span class="quick-arrow">↗</span>
+      </a>
+      <a class="quick-item" href="#search-section">
+        <span class="quick-icon sun-icon">✳</span>
+        <span><b>Search the catalog</b><small>Explore 70+ Ayurvedic species</small></span>
+        <span class="quick-arrow">↗</span>
+      </a>
+    </section>
+
+    <!-- Search Section (Section 20) -->
+    <section class="search-section page-shell" id="search-section">
+      <div class="search-heading">
+        <p class="eyebrow"><span class="eyebrow-dot"></span> BOTANICAL SEARCH ENGINE</p>
+        <h2>Search by name or <em>tradition.</em></h2>
+        <p style="color: #626b60; font-size: 13px; margin: 0;">Find plants by common name (Tulsi, Neem), botanical Latin name (Ocimum tenuiflorum), or Ayurvedic Sanskrit name (Amalaki, Ashwagandha).</p>
+      </div>
+
+      <div class="search-box-wrap">
+        <input
+          class="search-input-field"
+          id="catalogSearchInput"
+          type="search"
+          placeholder="Type a plant name: e.g. Tulsi, Ocimum, Neem, Ashwagandha, Turmeric..."
+          aria-label="Search plant catalog"
+        >
+        <button class="search-clear-btn" id="searchClearBtn" type="button" aria-label="Clear search" hidden>✕</button>
+      </div>
+
+      <div class="search-status-bar" id="searchStatusBar">Showing featured Ayurvedic plants</div>
+
+      <div class="search-results-grid" id="searchResultsGrid">
+        <!-- Dynamically rendered by script.js -->
+      </div>
+    </section>
+
+    <!-- Field Notes Section -->
+    <section class="field-section page-shell" id="field-notes">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">A GOOD PLACE TO BEGIN</p>
+          <h2>Field notes for <em>everyday plants.</em></h2>
+        </div>
+        <a class="text-link" href="identify.html">See what’s nearby <span aria-hidden="true">↗</span></a>
+      </div>
+
+      <div class="field-grid">
+        <a class="field-card feature-card" href="result.html?name=Ocimum%20tenuiflorum">
+          <div class="field-photo">
+            <img src="https://images.unsplash.com/photo-1618164436241-4473940d1f5c?auto=format&fit=crop&w=1000&q=85" alt="A leafy tulsi basil plant in a garden" loading="lazy">
+            <span class="photo-index">01</span>
+          </div>
+          <div class="field-card-copy">
+            <div>
+              <span class="category-label">KITCHEN GARDEN</span>
+              <h3>Holy basil <em>(Tulasi)</em></h3>
+            </div>
+            <span class="card-arrow">↗</span>
+          </div>
+          <p>A familiar aromatic herb, revered for thousands of years in home courtyards, daily teas, and wellness rituals.</p>
+        </a>
+
+        <a class="field-card" href="result.html?name=Azadirachta%20indica">
+          <div class="field-photo">
+            <img src="https://images.unsplash.com/photo-1596755389378-c31d21fd1273?auto=format&fit=crop&w=900&q=85" alt="Green neem leaves in sunlight" loading="lazy">
+            <span class="photo-index">02</span>
+          </div>
+          <div class="field-card-copy">
+            <div>
+              <span class="category-label">PURIFYING TREE</span>
+              <h3>Neem <em>(Nimba)</em></h3>
+            </div>
+            <span class="card-arrow">↗</span>
+          </div>
+          <p>A bitter, cooling evergreen giant praised throughout traditional pharmacopeias for skin and dental care.</p>
+        </a>
+
+        <div class="field-aside">
+          <span class="aside-flower" aria-hidden="true">✳</span>
+          <p class="eyebrow">A NOTE ON CARE</p>
+          <h3>Curiosity first.<br><em>Caution always.</em></h3>
+          <p>Plant traditions are fascinating and deeply rooted in culture. They are not a substitute for clinical advice or medical confirmation.</p>
+          <a class="text-link" href="identify.html">Start exploring <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section (Section 16, 25) -->
+    <section class="about-section page-shell" id="about-section">
+      <div class="about-grid">
+        <div class="about-copy">
+          <p class="eyebrow"><span class="eyebrow-dot"></span> ABOUT AYURSCAN</p>
+          <h2>Bridging botanical AI<br>with <em>ancient wisdom.</em></h2>
+          <p>AyurScan is designed to make Ayurvedic plant knowledge accessible, reliable, and deeply respectful of botanical diversity. Unlike traditional apps that stop after spotting a single prominent leaf, AyurScan inspects your complete image to discover every distinguishable plant—whether it's Tulsi, Neem, or fresh mint growing together.</p>
+          <p>Every identified species is enriched by curated records stored in MongoDB, distinguishing traditional wellness lore from calibrated clinical care and providing explicit safety guidelines.</p>
+          <div style="margin-top: 24px;">
+            <a class="button button-dark" href="identify.html">Try AyurScan Vision <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+
+        <div class="about-card-stat">
+          <div class="stat-item">
+            <b>Gemini 2.5 Flash</b>
+            <span>Whole-image multi-plant detection with confidence analysis</span>
+          </div>
+          <div class="stat-item">
+            <b>70+ Botanical Monographs</b>
+            <span>Curated Ayurvedic uses, Sanskrit names, parts used, and precautions</span>
+          </div>
+          <div class="stat-item">
+            <b>Zero Speculation Policy</b>
+            <span>Unclear or partially hidden specimens are explicitly flagged with diagnostic guidance</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer page-shell">
+    <a class="brand" href="index.html"><span class="brand-mark">A.</span> AYURSCAN</a>
+    <span>A field guide for the curious.</span>
+    <span>© AYURSCAN 2026</span>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

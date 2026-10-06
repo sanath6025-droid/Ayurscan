@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f3ec">
+  <title>Log in — AYURSCAN</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="login.css">
+</head>
+<body class="auth-page">
+  <header class="site-header auth-header"><a class="brand" href="index.html"><span class="brand-mark">A.</span> AYURSCAN</a><a class="auth-back" href="index.html">← <span>Back to discover</span></a></header>
+  <main class="auth-layout">
+    <section class="auth-image" aria-label="Garden leaves in afternoon light">
+      <img src="https://images.unsplash.com/photo-1483794344563-d27a8d18014e?auto=format&fit=crop&w=1400&q=85" alt="Green foliage in a quiet garden">
+      <div class="auth-image-shade"></div>
+      <div class="auth-image-note"><span class="eyebrow">KEEP A CLOSER LOOK</span><h1>Wonder grows<br>with <em>you.</em></h1><p>Save your discoveries and pick up where curiosity left off.</p><span class="auth-image-count">FIELD NOTES <b>001—∞</b></span></div>
+    </section>
+    <section class="auth-form-side">
+      <div class="auth-form-wrap">
+        <p class="eyebrow" id="formEyebrow">WELCOME BACK</p>
+        <h2 id="formTitle">Come on <em>in.</em></h2>
+        <p class="auth-subtitle" id="formSubtitle">Your field notes are waiting.</p>
+        <div class="auth-tabs" role="tablist" aria-label="Account access">
+          <button type="button" class="auth-tab is-active" role="tab" aria-selected="true" data-mode="login">Log in</button>
+          <button type="button" class="auth-tab" role="tab" aria-selected="false" data-mode="register">Create account</button>
+        </div>
+        <form id="authForm">
+          <label class="auth-label" for="email">Email address</label>
+          <input class="auth-input" id="email" name="email" type="email" placeholder="you@example.com" autocomplete="email" required>
+          <div class="password-heading"><label class="auth-label" for="password">Password</label><a href="#" id="forgotLink">Forgot password?</a></div>
+          <input class="auth-input" id="password" name="password" type="password" placeholder="At least 8 characters" autocomplete="current-password" minlength="8" required>
+          <label class="terms-row" id="termsRow" hidden><input type="checkbox" required> <span>I agree to the <a href="#terms">terms</a> and <a href="#privacy">privacy policy</a>.</span></label>
+          <button class="button button-dark auth-submit" id="submitButton" type="submit">Log in <span aria-hidden="true">↗</span></button>
+          <p class="auth-message" id="authMessage" role="status" aria-live="polite"></p>
+        </form>
+        <p class="auth-fineprint">Your account stays yours. We never sell personal data.</p>
+      </div>
+    </section>
+  </main>
+  <script src="login.js"></script>
+</body>
+</html>

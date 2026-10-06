@@ -1,0 +1,2730 @@
+[
+  {
+    "common_name": "Tulsi",
+    "scientific_name": "Ocimum tenuiflorum",
+    "ayurvedic_name": "Tulasi",
+    "category": "Ayurvedic",
+    "description": "An aromatic herb traditionally valued in Ayurveda and widely cultivated in Indian households.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic herbal preparations",
+      "Traditionally used as a household herb"
+    ],
+    "traditional_uses": [
+      "Herbal tea",
+      "Traditional household preparations"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "ayurvedic_name": "Nimba",
+    "category": "Ayurvedic",
+    "description": "A hardy evergreen tree traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional skin and household preparations"
+    ],
+    "plant_parts_used": [
+      "Leaves",
+      "Bark",
+      "Seeds"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Ashwagandha",
+    "scientific_name": "Withania somnifera",
+    "ayurvedic_name": "Ashwagandha",
+    "category": "Ayurvedic",
+    "description": "An herb traditionally used in Ayurveda and cultivated in parts of India.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Roots"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Aloe Vera",
+    "scientific_name": "Aloe vera",
+    "ayurvedic_name": "Kumari",
+    "category": "Ayurvedic",
+    "description": "A succulent plant traditionally used in Indian herbal practices.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional topical and household preparations"
+    ],
+    "plant_parts_used": [
+      "Leaf gel"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "ayurvedic_name": "Haridra",
+    "category": "Ayurvedic",
+    "description": "A rhizomatous plant and common Indian culinary spice with a long history in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food and traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Rhizome"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Ginger",
+    "scientific_name": "Zingiber officinale",
+    "ayurvedic_name": "Shunthi",
+    "category": "Ayurvedic",
+    "description": "A widely cultivated aromatic rhizome used in food and traditional Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Tea",
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Rhizome"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Amla",
+    "scientific_name": "Phyllanthus emblica",
+    "ayurvedic_name": "Amalaki",
+    "category": "Ayurvedic",
+    "description": "A fruit-bearing tree traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Brahmi",
+    "scientific_name": "Bacopa monnieri",
+    "ayurvedic_name": "Brahmi",
+    "category": "Ayurvedic",
+    "description": "A small herb traditionally associated with Ayurvedic preparations.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Whole plant"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Guduchi/Giloy",
+    "scientific_name": "Tinospora cordifolia",
+    "ayurvedic_name": "Guduchi",
+    "category": "Ayurvedic",
+    "description": "A climbing plant traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Stem"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Shatavari",
+    "scientific_name": "Asparagus racemosus",
+    "ayurvedic_name": "Shatavari",
+    "category": "Ayurvedic",
+    "description": "A climbing medicinal herb traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Roots"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Moringa",
+    "scientific_name": "Moringa oleifera",
+    "ayurvedic_name": "Shigru",
+    "category": "Ayurvedic",
+    "description": "A multipurpose tree whose leaves and pods are commonly used as food.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Leaves",
+      "Pods"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Arjuna",
+    "scientific_name": "Terminalia arjuna",
+    "ayurvedic_name": "Arjuna",
+    "category": "Ayurvedic",
+    "description": "A large tree traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Bark"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Bael",
+    "scientific_name": "Aegle marmelos",
+    "ayurvedic_name": "Bilva",
+    "category": "Ayurvedic",
+    "description": "A fruit tree traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Fruit",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Fruit",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Punarnava",
+    "scientific_name": "Boerhavia diffusa",
+    "ayurvedic_name": "Punarnava",
+    "category": "Ayurvedic",
+    "description": "A spreading herb traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Whole plant"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Gudmar",
+    "scientific_name": "Gymnema sylvestre",
+    "ayurvedic_name": "Gudmar",
+    "category": "Ayurvedic",
+    "description": "A climbing plant traditionally valued in Indian herbal practice.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Kalmegh",
+    "scientific_name": "Andrographis paniculata",
+    "ayurvedic_name": "Kalmegha",
+    "category": "Ayurvedic",
+    "description": "A bitter herb traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Whole plant"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Vasa",
+    "scientific_name": "Justicia adhatoda",
+    "ayurvedic_name": "Vasaka",
+    "category": "Ayurvedic",
+    "description": "A shrub traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Haritaki",
+    "scientific_name": "Terminalia chebula",
+    "ayurvedic_name": "Haritaki",
+    "category": "Ayurvedic",
+    "description": "A fruit traditionally used in Ayurvedic formulations.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Bibhitaki",
+    "scientific_name": "Terminalia bellirica",
+    "ayurvedic_name": "Bibhitaki",
+    "category": "Ayurvedic",
+    "description": "A tree whose fruit is traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Gokshura",
+    "scientific_name": "Tribulus terrestris",
+    "ayurvedic_name": "Gokshura",
+    "category": "Ayurvedic",
+    "description": "A low-growing herb traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Fruit",
+      "Whole plant"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Shankhpushpi",
+    "scientific_name": "Convolvulus pluricaulis",
+    "ayurvedic_name": "Shankhpushpi",
+    "category": "Ayurvedic",
+    "description": "A small herb traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Whole plant"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Yashtimadhu/Licorice",
+    "scientific_name": "Glycyrrhiza glabra",
+    "ayurvedic_name": "Yashtimadhu",
+    "category": "Ayurvedic",
+    "description": "A perennial herb whose root is traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Root"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Pippali",
+    "scientific_name": "Piper longum",
+    "ayurvedic_name": "Pippali",
+    "category": "Ayurvedic",
+    "description": "A climbing plant producing a long pepper fruit used traditionally in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Black Pepper",
+    "scientific_name": "Piper nigrum",
+    "ayurvedic_name": "Maricha",
+    "category": "Ayurvedic",
+    "description": "A widely cultivated spice traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Cinnamon",
+    "scientific_name": "Cinnamomum verum",
+    "ayurvedic_name": "Tvak",
+    "category": "Ayurvedic",
+    "description": "An aromatic tree whose bark is used as a spice and in traditional preparations.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Bark"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Cardamom",
+    "scientific_name": "Elettaria cardamomum",
+    "ayurvedic_name": "Ela",
+    "category": "Ayurvedic",
+    "description": "An aromatic spice traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Seeds"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Clove",
+    "scientific_name": "Syzygium aromaticum",
+    "ayurvedic_name": "Lavanga",
+    "category": "Ayurvedic",
+    "description": "An aromatic flower bud used as a spice and in traditional preparations.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Flower buds"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Fennel",
+    "scientific_name": "Foeniculum vulgare",
+    "ayurvedic_name": "Shatapushpa",
+    "category": "Ayurvedic",
+    "description": "An aromatic herb and spice traditionally valued in Indian herbal practice.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Seeds"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Fenugreek",
+    "scientific_name": "Trigonella foenum-graecum",
+    "ayurvedic_name": "Methi",
+    "category": "Ayurvedic",
+    "description": "An annual herb commonly used as food and traditionally in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Seeds",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Coriander",
+    "scientific_name": "Coriandrum sativum",
+    "ayurvedic_name": "Dhanyaka",
+    "category": "Ayurvedic",
+    "description": "An aromatic culinary herb and spice traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Seeds",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Cumin",
+    "scientific_name": "Cuminum cyminum",
+    "ayurvedic_name": "Jiraka",
+    "category": "Ayurvedic",
+    "description": "A common culinary spice traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Seeds"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Ajwain",
+    "scientific_name": "Trachyspermum ammi",
+    "ayurvedic_name": "Yavani",
+    "category": "Ayurvedic",
+    "description": "An aromatic spice traditionally used in Indian herbal practices.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Seeds"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Mint",
+    "scientific_name": "Mentha spicata",
+    "ayurvedic_name": "Pudina",
+    "category": "Ayurvedic",
+    "description": "An aromatic herb commonly grown in Indian gardens and kitchens.",
+    "ayurvedic_uses": [
+      "Traditionally used in herbal preparations"
+    ],
+    "traditional_uses": [
+      "Tea",
+      "Food",
+      "Traditional preparations"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Lemongrass",
+    "scientific_name": "Cymbopogon citratus",
+    "ayurvedic_name": "Bhustrina",
+    "category": "Ayurvedic",
+    "description": "An aromatic grass commonly used in food and traditional preparations.",
+    "ayurvedic_uses": [
+      "Traditionally used in herbal preparations"
+    ],
+    "traditional_uses": [
+      "Tea",
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Curry Leaf",
+    "scientific_name": "Murraya koenigii",
+    "ayurvedic_name": "Karipatta",
+    "category": "Ayurvedic",
+    "description": "A culinary tree whose leaves are widely used in South Indian cooking.",
+    "ayurvedic_uses": [
+      "Traditionally used in Indian herbal practice"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional preparations"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Hibiscus",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "ayurvedic_name": "Japa",
+    "category": "Ayurvedic",
+    "description": "A flowering shrub traditionally used in Indian household practices.",
+    "ayurvedic_uses": [
+      "Traditionally used in traditional herbal preparations"
+    ],
+    "traditional_uses": [
+      "Hair and household preparations"
+    ],
+    "plant_parts_used": [
+      "Flowers",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Jasmine",
+    "scientific_name": "Jasminum sambac",
+    "ayurvedic_name": "Malli",
+    "category": "Ayurvedic",
+    "description": "A fragrant flowering shrub widely cultivated in India.",
+    "ayurvedic_uses": [
+      "Traditionally valued in traditional plant practices"
+    ],
+    "traditional_uses": [
+      "Flowers",
+      "Traditional preparations"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Rose",
+    "scientific_name": "Rosa",
+    "ayurvedic_name": "Gulab",
+    "category": "Ayurvedic",
+    "description": "A widely cultivated flowering plant with a long history in traditional Indian practices.",
+    "ayurvedic_uses": [
+      "Traditionally used in traditional preparations"
+    ],
+    "traditional_uses": [
+      "Rose water",
+      "Food and fragrance"
+    ],
+    "plant_parts_used": [
+      "Flowers",
+      "Petals"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Sandalwood",
+    "scientific_name": "Santalum album",
+    "ayurvedic_name": "Chandana",
+    "category": "Ayurvedic",
+    "description": "A fragrant tree traditionally valued in Ayurveda and Indian cultural practices.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional topical preparations",
+      "Fragrance"
+    ],
+    "plant_parts_used": [
+      "Heartwood"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Ashoka",
+    "scientific_name": "Saraca asoca",
+    "ayurvedic_name": "Ashoka",
+    "category": "Ayurvedic",
+    "description": "A flowering tree traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Bark",
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Manjistha",
+    "scientific_name": "Rubia cordifolia",
+    "ayurvedic_name": "Manjistha",
+    "category": "Ayurvedic",
+    "description": "A climbing herb traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Roots"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Sariva",
+    "scientific_name": "Hemidesmus indicus",
+    "ayurvedic_name": "Sariva",
+    "category": "Ayurvedic",
+    "description": "A fragrant climbing herb traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Roots"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Guggul",
+    "scientific_name": "Commiphora wightii",
+    "ayurvedic_name": "Guggulu",
+    "category": "Ayurvedic",
+    "description": "A resin-producing shrub traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional resin preparations"
+    ],
+    "plant_parts_used": [
+      "Resin"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Bhringraj",
+    "scientific_name": "Eclipta prostrata",
+    "ayurvedic_name": "Bhringaraja",
+    "category": "Ayurvedic",
+    "description": "A small herb traditionally used in Indian herbal practice.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional hair and herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Whole plant"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Vidanga",
+    "scientific_name": "Embelia ribes",
+    "ayurvedic_name": "Vidanga",
+    "category": "Ayurvedic",
+    "description": "A climbing shrub whose fruit is traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Jatamansi",
+    "scientific_name": "Nardostachys jatamansi",
+    "ayurvedic_name": "Jatamansi",
+    "category": "Ayurvedic",
+    "description": "An aromatic Himalayan herb traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Rhizome",
+      "Roots"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Tagar",
+    "scientific_name": "Valeriana wallichii",
+    "ayurvedic_name": "Tagara",
+    "category": "Ayurvedic",
+    "description": "An aromatic herb traditionally used in Ayurvedic practice.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Rhizome",
+      "Roots"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Vacha",
+    "scientific_name": "Acorus calamus",
+    "ayurvedic_name": "Vacha",
+    "category": "Ayurvedic",
+    "description": "An aromatic rhizomatous plant traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Rhizome"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Musta",
+    "scientific_name": "Cyperus rotundus",
+    "ayurvedic_name": "Musta",
+    "category": "Ayurvedic",
+    "description": "A perennial sedge traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Rhizome"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Isabgol",
+    "scientific_name": "Plantago ovata",
+    "ayurvedic_name": "Isabgol",
+    "category": "Ayurvedic",
+    "description": "A herb cultivated for its seeds and husk, traditionally used in Indian preparations.",
+    "ayurvedic_uses": [
+      "Traditionally used in traditional preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional preparations"
+    ],
+    "plant_parts_used": [
+      "Seeds",
+      "Seed husk"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Senna",
+    "scientific_name": "Senna alexandrina",
+    "ayurvedic_name": "Swarnapatri",
+    "category": "Ayurvedic",
+    "description": "A shrub whose leaves and pods are traditionally used in herbal preparations.",
+    "ayurvedic_uses": [
+      "Traditionally used in traditional herbal preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Leaves",
+      "Pods"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Reetha",
+    "scientific_name": "Sapindus mukorossi",
+    "ayurvedic_name": "Arishta",
+    "category": "Ayurvedic",
+    "description": "A tree whose fruit has traditionally been used as a natural cleanser.",
+    "ayurvedic_uses": [
+      "Traditionally used in traditional plant preparations"
+    ],
+    "traditional_uses": [
+      "Natural cleansing"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Shikakai",
+    "scientific_name": "Acacia concinna",
+    "ayurvedic_name": "Shikakai",
+    "category": "Ayurvedic",
+    "description": "A climbing shrub traditionally used in Indian hair-care practices.",
+    "ayurvedic_uses": [
+      "Traditionally used in traditional hair preparations"
+    ],
+    "traditional_uses": [
+      "Hair cleansing"
+    ],
+    "plant_parts_used": [
+      "Pods"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Sarpagandha",
+    "scientific_name": "Rauvolfia serpentina",
+    "ayurvedic_name": "Sarpagandha",
+    "category": "Ayurvedic",
+    "description": "A medicinal herb traditionally valued in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Roots"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Kantakari",
+    "scientific_name": "Solanum virginianum",
+    "ayurvedic_name": "Kantakari",
+    "category": "Ayurvedic",
+    "description": "A spiny herb traditionally used in Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic formulations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Whole plant",
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Pomegranate",
+    "scientific_name": "Punica granatum",
+    "ayurvedic_name": "Dadima",
+    "category": "Ayurvedic",
+    "description": "A fruit tree widely cultivated and traditionally valued in Indian food and herbal practices.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional preparations"
+    ],
+    "plant_parts_used": [
+      "Fruit",
+      "Peel"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Coleus",
+    "scientific_name": "Coleus barbatus",
+    "ayurvedic_name": "Ajwainpatra",
+    "category": "Ayurvedic",
+    "description": "An aromatic herb traditionally used in some Indian herbal practices.",
+    "ayurvedic_uses": [
+      "Traditionally used in traditional herbal preparations"
+    ],
+    "traditional_uses": [
+      "Food",
+      "Traditional preparations"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Glory Lily",
+    "scientific_name": "Gloriosa superba",
+    "ayurvedic_name": "Langali",
+    "category": "Ayurvedic",
+    "description": "A climbing plant traditionally documented in Indian medicinal-plant traditions.",
+    "ayurvedic_uses": [
+      "Traditionally documented in traditional medicinal plant practices"
+    ],
+    "traditional_uses": [
+      "Traditional preparations only under appropriate expert guidance"
+    ],
+    "plant_parts_used": [
+      "Tuber"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Red Sanders",
+    "scientific_name": "Pterocarpus santalinus",
+    "ayurvedic_name": "Rakta Chandana",
+    "category": "Ayurvedic",
+    "description": "A South Indian tree valued for its wood and traditional plant uses.",
+    "ayurvedic_uses": [
+      "Traditionally used in selected traditional preparations"
+    ],
+    "traditional_uses": [
+      "Traditional preparations"
+    ],
+    "plant_parts_used": [
+      "Heartwood"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Marigold",
+    "scientific_name": "Tagetes erecta",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A popular flowering plant widely grown in Indian gardens and cultivated for flowers.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration",
+      "Garlands"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Chrysanthemum",
+    "scientific_name": "Chrysanthemum indicum",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A popular ornamental flowering plant cultivated in gardens and flower farms.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration",
+      "Cut flowers"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Sunflower",
+    "scientific_name": "Helianthus annuus",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A tall annual flowering plant commonly grown for ornamental and agricultural purposes.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden display",
+      "Seed production"
+    ],
+    "plant_parts_used": [
+      "Flowers",
+      "Seeds"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Bougainvillea",
+    "scientific_name": "Bougainvillea spectabilis",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A hardy ornamental climber commonly planted along walls and roadsides.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration"
+    ],
+    "plant_parts_used": [
+      "Bracts"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Periwinkle",
+    "scientific_name": "Catharanthus roseus",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A hardy flowering ornamental commonly grown in Indian gardens.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration"
+    ],
+    "plant_parts_used": [
+      "Flowers",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Lotus",
+    "scientific_name": "Nelumbo nucifera",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "An aquatic flowering plant commonly associated with ponds and water gardens.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Pond decoration",
+      "Cultural use"
+    ],
+    "plant_parts_used": [
+      "Flowers",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Water Lily",
+    "scientific_name": "Nymphaea",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "An aquatic flowering plant commonly found in ponds and ornamental water bodies.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Pond decoration"
+    ],
+    "plant_parts_used": [
+      "Flowers",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Ixora",
+    "scientific_name": "Ixora coccinea",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A compact flowering shrub commonly grown as an ornamental plant.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration",
+      "Hedges"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Plumeria",
+    "scientific_name": "Plumeria rubra",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A fragrant flowering tree widely grown as an ornamental plant.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration",
+      "Fragrance"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Portulaca",
+    "scientific_name": "Portulaca grandiflora",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A small flowering ornamental plant suited to sunny gardens.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Cosmos",
+    "scientific_name": "Cosmos bipinnatus",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "An annual flowering plant commonly grown for ornamental display.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Zinnia",
+    "scientific_name": "Zinnia elegans",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A colorful annual flowering plant popular in home gardens.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration",
+      "Cut flowers"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Crossandra",
+    "scientific_name": "Crossandra infundibuliformis",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A tropical flowering shrub widely grown in Indian gardens.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration",
+      "Cut flowers"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Rangoon Creeper",
+    "scientific_name": "Combretum indicum",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A vigorous flowering climber commonly grown for its fragrant flowers.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Aparajita",
+    "scientific_name": "Clitoria ternatea",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A climbing flowering plant commonly grown in Indian gardens.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration",
+      "Traditional cultural use"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A widely cultivated vegetable crop grown in home gardens and farms.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Brinjal",
+    "scientific_name": "Solanum melongena",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A common warm-season vegetable crop widely cultivated in Telangana.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Okra/Bhendi",
+    "scientific_name": "Abelmoschus esculentus",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A common warm-season vegetable crop widely grown in India.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Chilli",
+    "scientific_name": "Capsicum annuum",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A widely cultivated spice and vegetable crop.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food",
+      "Spice"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Potato",
+    "scientific_name": "Solanum tuberosum",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A widely consumed tuber crop cultivated in many parts of India.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Tubers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Sweet Potato",
+    "scientific_name": "Ipomoea batatas",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A tuber crop grown for its edible storage roots.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Storage roots"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Onion",
+    "scientific_name": "Allium cepa",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A major culinary bulb crop widely used in Indian cuisine.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Bulb"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Garlic",
+    "scientific_name": "Allium sativum",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "An aromatic bulb crop commonly used as a culinary ingredient.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food",
+      "Spice"
+    ],
+    "plant_parts_used": [
+      "Bulb"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Cabbage",
+    "scientific_name": "Brassica oleracea",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A leafy vegetable crop grown in kitchen gardens and farms.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Cauliflower",
+    "scientific_name": "Brassica oleracea var. botrytis",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A common vegetable crop producing a compact edible flower head.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Inflorescence"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Spinach",
+    "scientific_name": "Spinacia oleracea",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A leafy vegetable commonly grown and consumed in India.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Amaranth",
+    "scientific_name": "Amaranthus",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A group of leafy plants commonly grown and eaten as vegetables.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Papaya",
+    "scientific_name": "Carica papaya",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A tropical fruit tree widely grown in home gardens and farms.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Mango",
+    "scientific_name": "Mangifera indica",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A major tropical fruit tree widely cultivated in Telangana and across India.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Guava",
+    "scientific_name": "Psidium guajava",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A common tropical fruit tree widely grown in home gardens and orchards.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Banana",
+    "scientific_name": "Musa",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A widely cultivated tropical fruit plant commonly grown in Telangana.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Coconut",
+    "scientific_name": "Cocos nucifera",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A tropical palm cultivated in suitable parts of India.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food",
+      "Household uses"
+    ],
+    "plant_parts_used": [
+      "Fruit",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Sapota/Chikoo",
+    "scientific_name": "Manilkara zapota",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A tropical fruit tree cultivated in Indian orchards and gardens.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Custard Apple",
+    "scientific_name": "Annona squamosa",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A fruit tree commonly grown in Telangana and other dry tropical regions.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Lemon",
+    "scientific_name": "Citrus limon",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A citrus fruit plant commonly grown in home gardens and orchards.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Sweet Orange",
+    "scientific_name": "Citrus sinensis",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A citrus fruit tree cultivated in Indian orchards and gardens.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Tamarind",
+    "scientific_name": "Tamarindus indica",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A long-lived tree common in Telangana and widely valued for its edible pods.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food",
+      "Culinary ingredient"
+    ],
+    "plant_parts_used": [
+      "Fruit pods"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Jamun",
+    "scientific_name": "Syzygium cumini",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A hardy tropical tree producing dark edible fruits.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Food"
+    ],
+    "plant_parts_used": [
+      "Fruit"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Banyan",
+    "scientific_name": "Ficus benghalensis",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A large native Indian tree commonly found in villages and urban landscapes.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Shade",
+      "Cultural value"
+    ],
+    "plant_parts_used": [
+      "Leaves",
+      "Fruits"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Peepal",
+    "scientific_name": "Ficus religiosa",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A large native Indian tree commonly planted and naturally occurring across the region.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Shade",
+      "Cultural value"
+    ],
+    "plant_parts_used": [
+      "Leaves",
+      "Fruits"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Gulmohar",
+    "scientific_name": "Delonix regia",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A widely planted ornamental tree known for its showy flowers.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Shade",
+      "Garden and avenue planting"
+    ],
+    "plant_parts_used": [
+      "Flowers",
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Rain Tree",
+    "scientific_name": "Samanea saman",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A large shade tree commonly planted along roads and in open spaces.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Shade",
+      "Avenue planting"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Eucalyptus",
+    "scientific_name": "Eucalyptus",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A group of fast-growing trees commonly planted in plantations and landscapes.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Timber",
+      "Shade and landscape planting"
+    ],
+    "plant_parts_used": [
+      "Leaves",
+      "Wood"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Lantana",
+    "scientific_name": "Lantana camara",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A hardy flowering shrub commonly seen in gardens and disturbed areas.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Croton",
+    "scientific_name": "Codiaeum variegatum",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A colorful foliage plant commonly grown as an ornamental garden plant.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Areca Palm",
+    "scientific_name": "Dypsis lutescens",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A popular ornamental palm grown indoors and outdoors in warm climates.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Landscape decoration"
+    ],
+    "plant_parts_used": [
+      "Leaves"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Adenium",
+    "scientific_name": "Adenium obesum",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A drought-tolerant ornamental flowering plant popular in containers and gardens.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Crape Jasmine",
+    "scientific_name": "Tabernaemontana divaricata",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A common ornamental shrub with white flowers, widely grown in Indian gardens.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Garden decoration"
+    ],
+    "plant_parts_used": [
+      "Flowers"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Nirgundi",
+    "scientific_name": "Vitex negundo",
+    "ayurvedic_name": "Nirgundi",
+    "category": "Ayurvedic",
+    "description": "A fragrant shrub traditionally valued in Indian herbal practices and Ayurveda.",
+    "ayurvedic_uses": [
+      "Traditionally used in Ayurvedic herbal preparations"
+    ],
+    "traditional_uses": [
+      "Traditional herbal preparations"
+    ],
+    "plant_parts_used": [
+      "Leaves",
+      "Seeds"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Teak",
+    "scientific_name": "Tectona grandis",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A large deciduous tree widely cultivated for timber and commonly found in parts of Telangana.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Timber",
+      "Shade and landscape planting"
+    ],
+    "plant_parts_used": [
+      "Leaves",
+      "Wood"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  },
+  {
+    "common_name": "Indian Beech",
+    "scientific_name": "Pongamia pinnata",
+    "ayurvedic_name": "",
+    "category": "Common",
+    "description": "A hardy Indian tree commonly planted along roadsides and in dry tropical landscapes.",
+    "ayurvedic_uses": [],
+    "traditional_uses": [
+      "Shade",
+      "Avenue planting",
+      "Traditional household uses"
+    ],
+    "plant_parts_used": [
+      "Leaves",
+      "Seeds"
+    ],
+    "precautions": [
+      "Information is for educational purposes. Do not use a plant as a treatment without appropriate professional guidance."
+    ],
+    "warnings": [
+      "Plant identification can be uncertain from images alone.",
+      "Traditional use does not establish that a plant treats or cures a disease."
+    ],
+    "image_url": "",
+    "video_url": ""
+  }
+]

@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f3ec">
+  <meta name="description" content="Detailed Ayurvedic identification results and traditional field notes.">
+  <title>Identification results — AYURSCAN</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="result.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="AYURSCAN home"><span class="brand-mark">A.</span> AYURSCAN</a>
+    <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a class="nav-link" href="index.html">Discover</a>
+      <a class="nav-link" href="identify.html">Identify plants</a>
+      <a class="nav-link" href="index.html#search-section">Search catalog</a>
+      <a class="nav-link" href="index.html#field-notes">Field notes</a>
+      <a class="nav-link" href="index.html#about-section">About</a>
+      <a class="nav-login" href="login.html">Log in <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+
+  <main class="result-main page-shell">
+    <a class="back-link" href="identify.html">← Scan another plant photo</a>
+
+    <!-- Identified Multi-Plant View -->
+    <section class="identified-view" id="identifiedView">
+
+      <!-- Summary Banner (Section 7, 18) -->
+      <div class="multi-plant-summary" id="resultsSummaryBanner">
+        <div class="summary-text">
+          <p class="eyebrow"><span class="eyebrow-dot"></span> MULTI-PLANT IDENTIFICATION RESULTS</p>
+          <h1 class="summary-title" id="summaryTitleText">Identification Complete</h1>
+          <p class="summary-subtitle" id="summarySubtitleText">Reviewing each detected plant below.</p>
+        </div>
+        <div class="summary-badges">
+          <span class="summary-chip chip-identified" id="chipIdentifiedCount">0 IDENTIFIED</span>
+          <span class="summary-chip chip-unclear" id="chipUnclearCount" hidden>0 UNCLEAR</span>
+        </div>
+      </div>
+
+      <!-- User Uploaded Photo Bar -->
+      <div class="user-scan-preview-bar">
+        <div class="user-scan-thumb">
+          <img id="scanPhoto" alt="Your uploaded photo of plants" hidden>
+          <span class="user-scan-thumb-label"><span></span> YOUR UPLOADED PHOTO</span>
+        </div>
+        <div class="user-scan-meta">
+          <p class="eyebrow">FULL-IMAGE VISION ANALYSIS</p>
+          <h2>Distinct Plants <em>Analyzed</em></h2>
+          <p>Google Gemini systematically inspected this image for all visible plants. Each clearly identified species has been matched with authentic Ayurvedic records from the database.</p>
+          <a class="text-link" href="identify.html">Scan a different angle <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+
+      <!-- Container for all identified plant cards -->
+      <section class="plant-cards-list" id="identifiedPlantsList" aria-label="Identified plants list">
+        <!-- Dynamically populated by result.js -->
+      </section>
+
+      <!-- Container for unclear plant warnings (Section 18) -->
+      <section id="unclearPlantsContainer" aria-label="Unclear plants warning" hidden>
+        <!-- Dynamically populated by result.js -->
+      </section>
+
+      <!-- Educational Disclaimer Banner (Section 19, 25) -->
+      <div class="educational-disclaimer-box">
+        <span class="disclaimer-icon">✳</span>
+        <p>
+          <strong>Medical &amp; Safety Disclaimer:</strong> This information is provided for educational and botanical interest only and describes traditional Ayurvedic uses. It does not constitute medical advice and is not intended to diagnose, treat, cure, or prevent any illness. Always consult a qualified physician or healthcare professional before using herbs or plants for health purposes.
+        </p>
+      </div>
+
+      <!-- Footer Actions -->
+      <div class="result-footer-actions">
+        <a class="button button-dark" href="identify.html">Identify another photo <span aria-hidden="true">↗</span></a>
+        <a class="text-link" href="index.html">Back to discover <span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+
+    <!-- Not Identified Fallback View -->
+    <section class="not-identified-view" id="notIdentifiedView" hidden>
+      <div class="not-found-icon" aria-hidden="true">?</div>
+      <p class="eyebrow">A FIELD GUIDE PAUSE</p>
+      <h1>We couldn’t make<br>a confident <em>match.</em></h1>
+      <p class="not-found-copy" id="notIdentifiedCopy">
+        Visual evidence in this photo was insufficient or below our 70% confidence threshold. Plant traditions require caution—we never guess plant identities without sufficient clarity.
+      </p>
+
+      <div class="not-found-tips">
+        <h2>Suggestions for clearer identification</h2>
+        <ul>
+          <li>Bring the camera close to distinct leaves, flowers, or stems</li>
+          <li>Ensure good natural daylight and avoid intense backlight or shadows</li>
+          <li>Hold the camera steady to prevent motion blur</li>
+          <li>If multiple plants overlap, capture each plant individually</li>
+        </ul>
+      </div>
+
+      <div class="not-found-actions">
+        <a class="button button-dark" href="identify.html">Try another photo <span aria-hidden="true">↗</span></a>
+        <a class="text-link" href="index.html">Back to discover <span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+  </main>
+
+  <!-- Full Plant Monograph Modal (Section 19) -->
+  <div class="plant-modal-overlay" id="plantModalOverlay" aria-hidden="true" role="dialog" aria-modal="true">
+    <div class="plant-modal-dialog">
+      <button class="modal-close-btn" id="modalCloseBtn" type="button" aria-label="Close plant monograph">✕</button>
+      <p class="modal-plant-eyebrow" id="modalPlantFamily">BOTANICAL MONOGRAPH</p>
+      <h2 class="modal-plant-title" id="modalPlantTitle">Holy Basil</h2>
+      <p class="modal-plant-latin" id="modalPlantLatin">Ocimum tenuiflorum · Tulasi</p>
+
+      <div class="modal-plant-media" id="modalMediaWrap" hidden>
+        <img id="modalPlantImg" alt="Plant botanical reference" src="">
+      </div>
+
+      <p class="plant-desc-text" id="modalPlantDesc"></p>
+
+      <div class="modal-detail-sections">
+        <div>
+          <h4 class="section-subtitle">TRADITIONAL &amp; AYURVEDIC USES</h4>
+          <ul class="plant-uses-list" id="modalPlantUses"></ul>
+
+          <h4 class="section-subtitle">PLANT PARTS USED</h4>
+          <div class="parts-used-chips" id="modalPlantParts"></div>
+        </div>
+
+        <div>
+          <div class="plant-precaution-box">
+            <h4>PRECAUTIONS</h4>
+            <ul class="plant-uses-list" id="modalPlantPrecautions"></ul>
+          </div>
+
+          <div class="plant-precaution-box" style="margin-top: 14px; background: #faecea;">
+            <h4 style="color: #9c2718;">WARNINGS</h4>
+            <ul class="plant-uses-list" id="modalPlantWarnings"></ul>
+          </div>
+        </div>
+      </div>
+
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 20px;">
+        <a class="text-link" id="modalVideoLink" href="#" target="_blank" rel="noopener noreferrer">
+          Watch educational video guide <span aria-hidden="true">↗</span>
+        </a>
+        <button class="button button-outline" id="modalCloseBtnBottom" type="button">Close monograph</button>
+      </div>
+
+      <div class="educational-disclaimer-box" style="margin-top: 24px; padding: 12px 14px;">
+        <span class="disclaimer-icon">✳</span>
+        <p style="font-size: 10px;">
+          <strong>Educational Notice:</strong> Traditional Ayurvedic documentation is curated for cultural learning. It is not intended as medical guidance. Always consult a healthcare provider.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <footer class="site-footer page-shell">
+    <a class="brand" href="index.html"><span class="brand-mark">A.</span> AYURSCAN</a>
+    <span>A field guide for the curious.</span>
+    <span>© AYURSCAN 2026</span>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+  <script src="result.js"></script>
+</body>
+</html>

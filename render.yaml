@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: ayurscan
+    env: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.0
+      - key: HOST
+        value: 0.0.0.0
+      - key: GEMINI_MODEL
+        value: gemini-3.5-flash-lite
+      - key: CONFIDENCE_THRESHOLD
+        value: "0.70"
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: GEMINI_API_KEY
+        sync: false # Enter your Google Gemini API key in the Render Dashboard
